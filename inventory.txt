@@ -1,0 +1,10 @@
+Marie, Cookies, 20.0, 10, 2025-01-04
+Pineapple,Fruits,0.5,100,2024-12-31
+Milk,Dairy,1.5,50,2024-07-01
+Carrot,Vegetables,0.7,200,2024-08-15
+Cheese,Dairy,2.5,20,2024-06-30
+Banana,Fruits,0.3,150,2024-06-20
+Cucumber,Vegetables,1.2,80,2024-07-05
+Chicken,Meat,5.0,30,2024-06-25
+Fish,Seafood,6.0,25,2024-07-05
+Shrimp,Seafood,8.0,15,2024-06-30
